@@ -1,6 +1,7 @@
 # vim
 vi/vim editor goodies
 
+## Want a sensible vi/vim config setup for creating Ansible playbooks etc?
 
 ```bash
 cat ~/.vimrc
